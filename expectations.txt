@@ -7,3 +7,10 @@ Expectations:
 - Determine the use of Web Programming as a whole in my course (BS Statistics)
 - Work collaboratively and efectively with different people and adapt to their working habits
 - Enjoy the course as a whole!
+
+
+Fermo comments: 
+
+I agree that github could be used more frequently. I agree that there are tools that github makes available. 
+I agree that you should apply the knowledge you learn in this class to your course. I especially agree wih working collaboratively because that is the point of github to work as a team or with different people on the 
+same goal. I also want to enjoy the course as a whole ! 
